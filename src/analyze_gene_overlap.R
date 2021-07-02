@@ -37,4 +37,6 @@ gene_overlap_object <- newGOM(list_of_genes_per_disease,
                                       genome.size=20000)
 
 
+png("results/heatmap.png")
 drawHeatmap(gene_overlap_object)
+dev.off()
