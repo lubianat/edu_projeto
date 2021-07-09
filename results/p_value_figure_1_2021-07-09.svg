@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1061"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="p_value_figure_1_2021-07-09.svg">
+  <defs
+     id="defs1055" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="379.93057"
+     inkscape:cy="743.53945"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="1368"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1058">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="48.947918"
+       y="116.32738"
+       id="text1652"><tspan
+         sodipodi:role="line"
+         id="tspan1650"
+         x="50.221226"
+         y="116.32738"
+         style="stroke-width:0.26458332">BP </tspan><tspan
+         sodipodi:role="line"
+         x="48.947918"
+         y="121.61904"
+         style="stroke-width:0.26458332"
+         id="tspan1749">46 genes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="118.95219"
+       y="121.62318"
+       id="text1652-5"><tspan
+         sodipodi:role="line"
+         id="tspan1650-6"
+         x="120.22549"
+         y="121.62318"
+         style="stroke-width:0.26458332">SCZ </tspan><tspan
+         sodipodi:role="line"
+         x="118.95219"
+         y="126.91484"
+         style="stroke-width:0.26458332"
+         id="tspan1753">57 genes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="68.303398"
+       y="53.965446"
+       id="text1652-2"><tspan
+         sodipodi:role="line"
+         id="tspan1650-9"
+         x="68.303398"
+         y="53.965446"
+         style="stroke-width:0.26458332">MDD</tspan><tspan
+         sodipodi:role="line"
+         x="68.303398"
+         y="59.257114"
+         style="stroke-width:0.26458332"
+         id="tspan1755">15 genes</tspan></text>
+    <path
+       style="fill:#d45500;stroke:#aa4400;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 64.822916,102.72024 c 38.742554,5.48065 38.742554,5.48065 38.742554,5.48065"
+       id="path1690"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d45500;stroke:#aa4400;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.576"
+       d="M 59.909225,96.861605 67.27976,67.001487"
+       id="path1711"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#ff6c6c;fill-opacity:1;stroke:#131313;stroke-width:0.57300907;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1606-6"
+       cx="59.058784"
+       cy="102.05878"
+       r="6.1881084" />
+    <path
+       style="fill:#d45500;stroke:#aa4400;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.264"
+       d="M 71.059523,66.245535 107.53422,102.53125"
+       id="path1728"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#ff6c6c;fill-opacity:1;stroke:#131313;stroke-width:0.66499996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1606"
+       cx="110.08556"
+       cy="109.05133"
+       r="7.1815472" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#ff6c6c;fill-opacity:1;stroke:#131313;stroke-width:0.29703641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1606-3"
+       cx="68.602676"
+       cy="64.544647"
+       r="3.2077913" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.62057114px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2262857"
+       x="81.910645"
+       y="113.24603"
+       id="text1795"><tspan
+         sodipodi:role="line"
+         id="tspan1793"
+         x="81.910645"
+         y="113.24603"
+         style="stroke-width:0.2262857">p = 9 x 10<tspan
+   style="font-size:2.35337114px;baseline-shift:super;stroke-width:0.2262857"
+   id="tspan1797">-26</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.62057114px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2262857"
+       x="47.348236"
+       y="81.59893"
+       id="text1795-3"
+       inkscape:transform-center-x="-2.9399648"
+       inkscape:transform-center-y="2.0045215"><tspan
+         sodipodi:role="line"
+         id="tspan1793-6"
+         x="47.348236"
+         y="81.59893"
+         style="stroke-width:0.2262857">p = 3 x 10<tspan
+   style="font-size:2.35337114px;baseline-shift:super;stroke-width:0.2262857"
+   id="tspan1797-0">-8</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.62057114px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2262857"
+       x="104.14186"
+       y="82.267105"
+       id="text1795-3-6"
+       inkscape:transform-center-x="-2.9399648"
+       inkscape:transform-center-y="2.0045215"><tspan
+         sodipodi:role="line"
+         id="tspan1793-6-2"
+         x="104.14186"
+         y="82.267105"
+         style="stroke-width:0.2262857">p = 8 x 10<tspan
+   style="font-size:2.35337114px;baseline-shift:super;stroke-width:0.2262857"
+   id="tspan1797-0-6">-4</tspan></tspan></text>
+  </g>
+</svg>

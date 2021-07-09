@@ -35,8 +35,15 @@ for (i in 1:nrow(result)){
 
 gene_overlap_object <- newGOM(list_of_genes_per_disease,
                                       genome.size=20000)
-
-
-png("results/heatmap.png")
+gene_overlap_object
 drawHeatmap(gene_overlap_object)
-dev.off()
+
+
+# BD & SCZ
+-log10(9e-26)
+
+# BD & MDD
+-log10(3e-08)
+
+# MDD & SCZ
+-log10(8e-04)
